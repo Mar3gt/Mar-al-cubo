@@ -1,0 +1,14 @@
+{
+  "name": "asi-quedaria",
+  "version": "1.0.0",
+  "description": "Visualiza tu habitación real decorada con tus propios muebles, referencias e instrucciones.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "demo": "IMAGE_PROVIDER=demo node server.js"
+  },
+  "engines": {
+    "node": ">=18.17"
+  }
+}
